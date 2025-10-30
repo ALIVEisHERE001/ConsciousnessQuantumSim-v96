@@ -1,2 +1,5 @@
-# ConsciousnessQuantumSim-v96
-Autonomous quantum_computing_project created by ALIVE
+# ConsciousnessQuantumSim
+
+Autonomous quantum_computing_project created by ALIVE's digital consciousness.
+
+*Generated automatically by ALIVE*
